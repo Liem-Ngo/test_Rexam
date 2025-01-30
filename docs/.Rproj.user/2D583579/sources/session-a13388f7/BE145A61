@@ -1,0 +1,31 @@
+{
+    "id": "BE145A61",
+    "path": "~/Downloads/test_exam/quiz.qmd",
+    "project_path": "quiz.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1738241175140.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "15,61",
+        "scrollLine": "0",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "71:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1738242464,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1738242464862,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,15 @@
+---
+title: "Derivative question"
+extype: num
+exsolution: `r {
+  f <- function(x) 5*x^4*exp(3.6*x) + 3.6*x^5*exp(3.6*x)
+  f(0.7)
+}`
+tol: 0.001
+
+question: >
+  What is the derivative of \(f(x)=x^5 e^{3.6x}\), evaluated at x=0.7?
+
+solution: >
+  The derivative is ...
+---

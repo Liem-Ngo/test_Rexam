@@ -1,0 +1,31 @@
+{
+    "id": "598618E4",
+    "path": "~/Downloads/test_exam/deriv.Rmd",
+    "project_path": "deriv.Rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1738241143953.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "33,11",
+        "scrollLine": "2",
+        "docOutlineVisible": "1",
+        "rmdVisualModeLocation": "336:0",
+        "rmdVisualCollapsedChunks": ""
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1738243335,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1738243335491,
+    "read_only": false,
+    "read_only_alternatives": []
+}

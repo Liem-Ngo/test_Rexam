@@ -1,0 +1,4 @@
+install.packages(c("exams", "exams2forms", "quarto"))
+quarto check
+install.packages("exams")         # Main R/exams package
+install.packages("remotes")       # If needed, to install from GitHub

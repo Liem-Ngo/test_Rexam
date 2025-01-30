@@ -1,0 +1,20 @@
+---
+title: "My R/exams Quiz"
+format:
+  html:
+    css: webex.css
+    include-after-body: webex.js
+---
+
+```{r setup, include=FALSE}
+# Load the package
+library(exams2forms)
+
+# Exercises we want to embed
+ex_list <- c("swisscapital.Rmd", "deriv.Rmd")
+
+# Generate the interactive forms (n=3 random variations each)
+# 'results="asis"' ensures that the HTML output is inserted verbatim
+exams2forms(ex_list, n = 3)
+
+```
